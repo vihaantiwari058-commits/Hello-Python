@@ -21,4 +21,4 @@ Interests:
 - Gaming
 - Amine
 - Learning Russian
-- 
+- I listen to Lana Del Rey and Arctic Monkeys 
