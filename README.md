@@ -1,6 +1,9 @@
 # Hello Python 
 
-My first Python project
+## Projects 
+- Calculator
+- Number Guessing Game
+- Rock Paper Scissors 
 
 ## Features
 - Addition
