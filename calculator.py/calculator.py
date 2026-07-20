@@ -21,4 +21,4 @@ while chances < 10:
      if chances == 10:
         print(f"""Sorry, you've used all your chances. the correct number was {answer} Better luck next time !""")
              The correct number was {answer}. Better luck next time!""")
-             Thank you for playing the number guessing game! 
+             Thank you for playing the number guessing game!
